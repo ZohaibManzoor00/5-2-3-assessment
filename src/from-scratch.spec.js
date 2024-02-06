@@ -293,7 +293,10 @@ describe(testSuiteName, () => {
     const mayaAndroid = new Phone('3499217541');
 
     // we don't want you to just check the model, so it's random and counterfeited!
+    
+    // Shouldn't Reuben's phone model be an iPhone if it expects the test to pass?
     const reubenIPhone = new AppleIPhone('3462217541', Math.random().toString(36).substring(7));
+
     const knockoffIphone = new Phone('3462217541');
     knockoffIphone.model = 'iPhon 77';
 

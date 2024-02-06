@@ -1,43 +1,43 @@
 {
   "testScores": {
     "Design Challenge Tests": {
-      "DeChTe1": 0,
-      "DeChTe2": 0,
-      "DeChTe3": 0,
-      "DeChTe4": 0,
-      "DeChTe5": 0,
-      "DeChTe6": 0,
-      "DeChTe7": 0,
-      "DeChTe8": 0,
-      "DeChTe9": 0,
-      "DeChTe10": 0,
-      "DeChTe11": 0,
-      "DeChTe12": 0,
-      "DeChTe13": 0,
-      "DeChTe14": 0,
-      "DeChTe15": 0
+      "DeChTe1": 1,
+      "DeChTe2": 1,
+      "DeChTe3": 1,
+      "DeChTe4": 1,
+      "DeChTe5": 1,
+      "DeChTe6": 1,
+      "DeChTe7": 1,
+      "DeChTe8": 1,
+      "DeChTe9": 1,
+      "DeChTe10": 1,
+      "DeChTe11": 1,
+      "DeChTe12": 1,
+      "DeChTe13": 1,
+      "DeChTe14": 1,
+      "DeChTe15": 1
     },
     "From Scratch Tests": {
-      "FrScTe1": 0,
-      "FrScTe2": 0,
-      "FrScTe3": 0,
-      "FrScTe4": 0,
-      "FrScTe5": 0,
-      "FrScTe6": 0,
-      "FrScTe7": 0,
-      "FrScTe8": 0,
-      "FrScTe9": 0,
-      "FrScTe10": 0,
-      "FrScTe11": 0,
-      "FrScTe12": 0,
-      "FrScTe13": 0,
-      "FrScTe14": 0,
-      "FrScTe15": 0,
-      "FrScTe16": 0,
-      "FrScTe17": 0,
-      "FrScTe18": 0,
-      "FrScTe19": 0,
-      "FrScTe20": 0
+      "FrScTe1": 1,
+      "FrScTe2": 1,
+      "FrScTe3": 1,
+      "FrScTe4": 1,
+      "FrScTe5": 1,
+      "FrScTe6": 1,
+      "FrScTe7": 1,
+      "FrScTe8": 1,
+      "FrScTe9": 1,
+      "FrScTe10": 1,
+      "FrScTe11": 1,
+      "FrScTe12": 1,
+      "FrScTe13": 1,
+      "FrScTe14": 1,
+      "FrScTe15": 1,
+      "FrScTe16": 1,
+      "FrScTe17": 1,
+      "FrScTe18": 1,
+      "FrScTe19": 1,
+      "FrScTe20": 1
     }
   },
   "idToTestNameHash": {
@@ -115,8 +115,8 @@
     "From Scratch Tests AppleIPhone - sendIMessage(): returns the right message when messaging iPhones vs. others": "FrScTe20"
   },
   "humanReadable": {
-    "Design Challenge Tests": "0/15",
-    "finalTestScore": "FINAL SCORE: 0/35",
-    "From Scratch Tests": "0/20"
+    "Design Challenge Tests": "15/15",
+    "finalTestScore": "FINAL SCORE: 35/35",
+    "From Scratch Tests": "20/20"
   }
 }
